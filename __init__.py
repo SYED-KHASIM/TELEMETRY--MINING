@@ -1,2 +1,2 @@
-# app/backend
+# app/ai_models
 
